@@ -1,3 +1,12 @@
-# FizzBuzz1.0
+# FizzBuzz Solver
+## A test almost as sacraded as Hello World 
 
-The finest FizzBuzzer Solver in the East! (If you ignore arrays or anything past the first 5 pages of W3 java school)
+-On multibles of 3 prints "Fizz" 
+
+-On multibles of 5 prints "Buzz" 
+
+-on multibles of 3 and 5 prints "FizzBuzz"
+
+Solved using modulo operator(remainder) 
+
+*-Seth/Sheriff John Brown*
